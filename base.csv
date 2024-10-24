@@ -1,0 +1,664 @@
+﻿id,item,DESCRIPCIÓN DEL BIEN O SERVICIO ,COTIZACION 2,COTIZACION 1
+1,1,"Diagnostico general del automotor ( sistema electrico, sistema de refrigeración, sistema hidraulico, sistema electronico)",1800000,860000
+2,2,"Valoración, medición, escaneo y diagnóstico técnico con equipos y herramientas especializadas según corresponda el sistema mecánico, hidráulico, eléctrico, electrónico.",900000,980000
+3,3,Toma de parámetros de sistema motor.,900000,790000
+4,4,Toma de parámetros tren de potencia,900000,880000
+5,5,Toma de parámetros sistema hidráulico,900000,1200000
+6,6,Toma de parámetros sistema eléctrico y/o electrónico.,900000,770000
+7,7,Inspección de control y de confort estación de operador,900000,330000
+8,8,Análisis de estructura general de equipos,900000,640000
+9,9,Análisis de laboratorio de aceites,520000,830000
+10,10,Análisis de laboratorio de composición química,520000,550000
+11,11,Análisis metalográfico,900000,880000
+12,12,"Redacción de informe técnico de valores físicos, imágenes o videos, con listado de partes, componentes, mano de obra y tiempo estimado de la intervención junto a la cotización de cada actividad o elemento.",1200000,640000
+13,13,Entrega técnica en reunión de socialización de lo hallado junto a equipo técnico encargado designado por la entidad.,900000,460000
+14,14,Suministro de CUCHILLAS: (3658x635x22)mm. Desmonte y monte de CUCHILLAS: (3658x635x22)mm,2870000,2200000
+15,15,Suministro de ESQUINERAS. Desmonte y monte de ESQUINERAS,1870000,1345000
+16,16,"Suministro, desmonte e instalación vidrio panorámico delantero, incluye empaque y consumibles de instalación",1980000,2700000
+17,17,"Suministro, desmonte e instalación, vidrio puerta izquierda ingreso conductor, incluye empaque y consumibles de instalación",1480000,1890000
+18,18,"Suministro, desmonte e instalación del Claxon",345000,480000
+19,19,"Suministro, desmonte e instalación del presostato del sistema de aire acondicionado",1870000,1645000
+20,20,"Suministro, desmonte e instalación de manguera del sistema de aire acondicionado",1270000,3480000
+21,21,"Suministro, desmonte e instalación de kit de cuchilla doble bisel material anti desgaste para balde frontal.",2930000,7890000
+22,22,"Suministro, desmonte e instalación de tornillos de ajuste de cuchilla",27800,1756000
+23,23,"Suministro, desmonte e instalación de tuerca de ajuste de cuchilla",8500,1756000
+24,24,"Suministro, desmonte e instalación de dientes del cucharon",147800,1780000
+25,25,"Suministro, desmonte e instalación de tuerca de los dientes del cucharon",27800,1756000
+26,26,"Suministro, desmonte e instalación de los tornillos de los dientes del cucharon",19800,1756000
+27,27,"Suministro, desmonte e instalación de vidrio superior puerta izquierda",1280000,1890000
+28,28,Suministro e instalación vidrio frontal panorámico,1980000,2380000
+29,29,"Suministro, desmonte e instalación de vidrio superior puerta derecha",1160000,1890000
+30,30,Suministro e instalación espejo retrovisor exterior ( rh - lh ),590000,490000
+31,31,"Suministro, desmonte e instalación de pasador o pin de la estructura o articulación móvil de la máquina.",870000,890000
+32,32,"Suministro, desmonte e instalación de buje o camisa de la estructura o articulación móvil de la máquina",790000,980000
+33,33,Reconstrucción con soldadura y aporte de material estructural de la articulación móvil de la máquina.,1800000,750000
+34,34,"Suministro, desmonte e instalación de kit de cuchilla CUCHILLA 7 HUECOS 182.9 cm REF: 86577169",1870000,2500000
+35,35,Reemplazo de kit de pernos de ajuste,387500,1678000
+36,36,"Suministro, desmonte e instalación de pasador o pin de la estructura o articulación móvil de la máquina.",690000,890000
+37,37,"Suministro, desmonte e instalación de buje o camisa de la estructura o articulación móvil de la máquina",670000,890000
+38,38,Reconstrucción con soldadura y aporte de material estructural de la articulación móvil de la máquina.,1850000,780000
+39,39,"Suministro, desmonte e instalación mangueras radiador",670000,350000
+40,40,"Suministro, desmonte e instalación acoples y abrazaderas",475000,480000
+41,41,"Reemplazo de mangueras de alta presión hidráulica ensambladas con acoples,racores ensamblados según muestra",620000,890000
+42,42,"Suministro, desmonte e instalación de espejo retrovisor convexo central panorámico de cabina.",410000,320000
+43,43,"Suministro, desmonte e instalación correas motor.",320000,550000
+44,44,"Suministro, desmonte e instalación empaquetaduras o'rings de los gatos - actuadores del sistema hidráulico del equipo",3890000,5400000
+45,45,"Suministro, desmonte e instalación de soportes de motor - apoyos",1340000,1100000
+46,46,Desmonte y reemplazo de soportes de motor - apoyos,1920000,1200000
+47,47,"Reparación enfriador-Intercambiador de calor de fluido hidráulico. Incluye mangueras de alta presión hidráulica, abrazaderas y accesorios de acople",1380000,5900000
+48,48,"Suministro, desmonte e instalación manguera de alta presión hidráulica, abrazaderas y accesorios de acople enfriador - intercambiador",680000,2700000
+49,49,"Suministro, desmonte e instalación ductos, mangueras o tubos del sistema de Inyección tanque-filtros-bomba-retorno, bomba principal-filtros-motor, línea alta presión-flauta-inyectores",3450000,15600000
+50,50,"Suministro, desmonte e instalación correa flexible de bomba de agua",320000,680000
+51,51,"Suministro, desmonte e instalación de mangueras radiador",870000,730000
+52,52,"Mantenimiento del turbocompresor completo, incluye empaquetaduras y rodamientos",3200000,3800000
+53,53,Reemplazo de mangueras de alta presión Hidráulica ensambladas con acoples y racores varios ensamblados según muestra,670000,2500000
+54,54,"Desmonte, mantenimiento y montaje de planta eléctrica, mantenimiento general",970000,790000
+55,55,"Desmonte, mantenimiento, reparación e instalación, de motor de arranque",890000,1780000
+56,56,"Mantenimiento, tensión y ajuste freno de seguridad-parqueo o de mano",1300000,550000
+57,57,"Suministro, desmonte e instalación de elevadores, relés o contactores del sistema eléctrico.",480000,770000
+58,57,"Mantenimiento preventivo y correctivo general de Motobomba Barnes 4T, reemplazo de fluidos y filtros, sincronización y puesta a punto periódica.",1850000,770000
+59,58,"Mantenimiento preventivo y correctivo general de Motobomba 2T, reemplazo de fluidos y filtros, sincronización y puesta a punto periódica.",1550000,1378570
+60,59,"Suministro, desmonte e instalación de baterías",950000,756980
+61,60,"Suministro, desmonte e instalación de espejos convexos retrovisores para punto ciego",870000,289000
+62,61,Suministro Correa flexible de bomba del agua,280000,456323
+63,62,"Suministro, desmonte e instalación de mangueras radiador",670000,467907
+64,63,"Suministro, desmonte e instalación de correas motor.",480000,567223
+65,64,"Suministro, desmonte e instalación de polea bomba aceite hidráulico.",860000,557890
+66,65,"Suministro, desmonte e instalación del bombín",1240000,689432
+67,66,"Suministro, desmonte e instalación de empaquetadura múltiple de escape.",320000,498000
+68,67,"Suministro, desmonte e instalación bendix arranque.",380000,756980
+69,68,"Suministro, desmonte e instalación relés o elevadores del circuito de motor de arranque",430000,657890
+70,69,"Suministro, desmonte e instalación de Bombonas, raches, diafragmas, componentes del sistema de frenos.",980000,4768988
+71,70,"Suministro, desmonte e instalación de asbestos frenos ruedas.",1450000,890776
+72,71,"Suministro, desmonte e instalación mangueras de freno.",850000,677000
+73,72,Rectificada de campanas de freno.,480000,256000
+74,73,"Suministro, desmonte e instalación de campanas freno.",1300000,789000
+75,74,"Suministro, desmonte e instalación válvula reguladora presión del sistema de frenos.",650000,578999
+76,75,Mantenimiento y reparación del compresor de aire del sistema de frenos.,1540000,3567666
+77,76,Mantenimiento y reparación de los depósitos de aire comprimido para el sistema de frenos.,950000,3444670
+78,77,"Suministro, desmonte e instalación de terminal de la dirección.",690000,756000
+79,78,"Suministro, desmonte e instalación biela de la dirección.",870000,1200667
+80,79,"Suministro, desmonte e instalación de esféricas: superior e inferior.",1470000,1050000
+81,80,"Suministro, desmonte e instalación brazo compensador de la dirección.",1300000,787000
+82,81,"Suministro, desmonte e instalación terminal axial.",850000,456000
+83,82,"Suministro, desmonte e instalación amortiguador delantero.",1680000,798000
+84,83,"Suministro, desmonte e instalación rodillos ruedas delanteras.",480000,980000
+85,84,"Suministro, desmonte e instalación rodillos ruedas traseras.",480000,980000
+86,85,"Suministro, desmonte e instalación retenedores ruedas delanteras.",380000,344000
+87,86,"Suministro, desmonte e instalación retenedores ruedas traseras.",380000,355789
+88,87,"Suministro, desmonte e instalación de bujes centrales de barra estabilizadora.",970000,299777
+89,88,"Suministro, desmonte e instalación bujes de muelle trasero.",670000,658000
+90,89,"Suministro, desmonte e instalación bujes de muelle delantero.",970000,458000
+91,90,"Suministro, desmonte e instalación hoja principal del muelle.",965000,555000
+92,91,"Suministro, desmonte e instalación hoja segunda de muelle.",1020000,657000
+93,92,"Suministro, desmonte e instalación tope amortiguador.",590000,234000
+94,93,"Suministro, desmonte e instalación base amortiguador.",470000,488000
+95,94,"Suministro, desmonte e instalación de soportes y tornillos de centro de muelles.",580000,238000
+96,95,"Suministro, desmonte e instalación de tope muelles.",420000,230000
+97,96,"Suministro, desmonte e instalación de grapa muelle.",410000,344000
+98,97,"Suministro, desmonte e instalación cruceta del cardan.",390000,455500
+99,98,"Suministro, desmonte e instalación soporte central del cardan.",1380000,548000
+100,99,"Suministro, desmonte e instalación kit de embrague (Prensa, Discos, Balinera, Collarín, guaya)",4300000,3300000
+101,100,Rectificada de volante y calibrar embrague.,850000,348000
+102,101,Lavado y limpieza del tanque cisterna,1280000,1500000
+103,102,Lavado y limpieza del tanque del combustible.,380000,700000
+104,103,Corrección de fuga de fluido en parte izquierda del motor y chasís,1280000,670000
+105,104,"Suministro, desmonte e instalación vidrio panorámico delantero",1920000,4560000
+106,106,Revisión y calibración de bomba hidráulica principal del sistema de elevación de grúa por pérdida de potencia y corrección de fugas.,6400000,3670000
+107,107,"Mantenimiento preventivo y correctivo en general de los mandos de accionamientos, válvulas, mangueras, racores, actuadores, émbolos, empaquetaduras. Incluidos actuadores de sistema de apoyos de grúa.",3200000,6790000
+108,108,"Suministro, desmonte e instalación de guías de las cañas de brazos deslizantes (guías inexistentes que evitan el desgaste)",1340000,2700000
+109,111,"Suministro, desmonte e instalación de baterías TIPO BATERIA: 4D 1300 MF - 12 V - 135 AH. ALTERNADOR: 90A - 14 V",1350000,900000
+110,112,Instalación de radio pasa cintas con parlantes.,650000,570000
+111,113,"Suministro, desmonte e instalación cables de alta para la batería con terminales de bronce tipo pesado",340000,460000
+112,114,"Mantenimiento general del botón accionamiento eléctrico, sensor electrónico y acondicionamiento de agalla del freno de ahogo",980000,678000
+113,115,"Suministro, desmonte e instalación de espejos convexos retrovisores para punto ciego",870000,344677
+114,116,"Suministro, desmonte e instalación del postenfriador de aceite . Incluye mantenimiento general",980000,1222990
+115,117,"Suministro, desmonte e instalación Termóstato",670000,570000
+116,118,"Suministro, desmonte e instalación de cojinetes de bomba de agua.",880000,788999
+117,119,"Suministro, desmonte e instalación Correa flexible de bomba del agua",360000,346000
+118,120,"Suministro, desmonte e instalación de tapa radiador con presión del sistema.",370000,170000
+119,121,"Suministro, desmonte e instalación de mangueras radiador",520000,689000
+120,122,"Suministro, desmonte e instalación de ventilador de motor completo.",3380000,788223
+121,123,"Suministro, desmonte e instalación de enfocador radiador.",1430000,1300000
+122,124,"Desmonte mantenimiento y Reparación del turbocompresor completo, incluye empaquetaduras, rodamientos y repuestos",3980000,3450000
+123,125,Reemplazo de mangueras de alta presión Hidráulica ensambladas con acoples y racores según muestra,2980000,980000
+124,126,"Suministro, desmonte e instalación de correas motor.",850000,345000
+125,127,"Suministro, desmonte e instalación de polea patín.",480000,228000
+126,128,"Suministro, desmonte e instalación de enfriador de aceite.",1300000,2450000
+127,129,"Suministro, desmonte e instalación de polea alternador.",650000,400000
+128,130,"Suministro, desmonte e instalación de polea bomba aceite hidráulico.",840000,700000
+129,131,"Suministro, desmonte e instalación del bombín",950000,800000
+130,132,Reparación de bomba inyección combustible original,4690000,13450000
+131,133,Sincronización general y limpieza de inyectores,3870000,3300000
+132,134,"Suministro, desmonte e instalación de inyector",1470000,2800000
+133,135,"Suministro, desmonte e instalación flotador (sensor) del combustible.",1300000,670000
+134,136,"Suministro, desmonte e instalación de empaquetadura múltiple de escape.",850000,290000
+135,137,"Suministro, desmonte e instalación silenciadores",1680000,1400000
+136,138,"Suministro, desmonte e instalación rotor alternador.",380000,680000
+137,139,"Suministro, desmonte e instalación corona alternador.",380000,709000
+138,140,"Suministro, desmonte e instalación escobillas alternador.",380000,279000
+139,141,"Suministro, desmonte e instalación regulador alternador.",380000,788000
+140,142,"Suministro, desmonte e instalación bujes y rodamientos planta eléctrica",270000,190000
+141,143,"Suministro, desmonte e instalación inducido arranque.",670000,790000
+142,144,"Suministro, desmonte e instalación bendix arranque.",970000,456000
+143,145,"Suministro, desmonte e instalación  arranque completo.",2965000,2600000
+144,146,"Suministro, desmonte e instalación relés o elevadores del circuito de motor de arranque",5020000,344000
+145,147,"Suministro, desmonte e instalación pachas y terminales de cableado motor de arranque",590000,178000
+146,148,"Suministro, desmonte e instalación indicadores electrónicos de accesorios,",970000,2500000
+147,149,"Suministro, desmonte e instalación indicadores del sistema de luces,",580000,2200000
+148,150,Reparación bomba de freno. Incluye empaquetaduras y repuestos,1420000,1700000
+149,151,"Mantenimiento general, ajuste, montaje, calibración, drenaje del sistema de frenos. (incluye mano de obra)",410000,1900000
+150,152,"Mantenimiento, tensión ajuste y calibración del freno de seguridad-parqueo o de mano",390000,290000
+151,153,"Suministro, desmonte e instalación de Bombonas, raches, diafragmas, componentes del sistema de frenos.",1380000,1500000
+152,154,"Suministro, desmonte e instalación de asbestos frenos ruedas.",480000,700000
+153,155,"Suministro, desmonte e instalación mangueras de freno.",680000,680000
+154,156,Rectificada de campanas de freno.,290000,267000
+155,157,"Suministro, desmonte e instalación de campanas freno.",980000,980000
+156,158,"Suministro, desmonte e instalación de bombona de freno de aire",1480000,670000
+157,159,"Suministro, desmonte e instalación de raches del freno de aire",680000,190000
+158,160,"Suministro, desmonte e instalación válvula reguladora presión del sistema de frenos.",870000,640000
+159,161,Mantenimiento y reparación del compresor de aire del sistema de frenos.,1680000,900000
+160,162,Mantenimiento y reparación de los depósitos de aire comprimido para el sistema de frenos.,850000,2300000
+161,163,"Suministro, desmonte e instalación flashes de direccionales.",180000,500000
+162,164,"Suministro, desmonte e instalación de switch de luces completo",280000,800000
+163,165,"Suministro, desmonte e instalación de fusibles en general.",180000,500000
+164,166,"Suministro, desmonte e instalación de pito.",320000,380000
+165,167,"Suministro, desmonte e instalación de switch de encendido.",580000,780000
+166,168,"Suministro, desmonte e instalación de instalación de Arnés cableado de alta.",480000,690000
+167,169,"Suministro, desmonte e instalación de alarma y luz de reversa.",850000,700000
+168,170,"Suministro, desmonte e instalación de stop completo.",420000,560000
+169,171,"Suministro, desmonte e instalación de bombilla de direccional.",80000,98000
+170,172,"Suministro, desmonte e instalación de elevadores, relés o contactores del sistema eléctrico.",320000,350000
+171,173,"Suministro, desmonte e instalación de terminal de la dirección.",640000,789000
+172,174,"Suministro, desmonte e instalación biela de la dirección.",630000,870000
+173,175,"Suministro, desmonte e instalación de esféricas: superior e inferior.",870000,1200000
+174,176,"Suministro, desmonte e instalación brazo compensador de la dirección.",620000,980000
+175,177,"Suministro, desmonte e instalación de brazo de la dirección",610000,890000
+176,178,"Suministro, desmonte e instalación de barra de la dirección",710000,879999
+177,179,"Suministro, desmonte e instalación terminal axial.",740000,768000
+178,180,"Suministro, desmonte e instalación amortiguador delantero.",1640000,980666
+179,181,"Suministro, desmonte e instalación rodillos ruedas delanteras.",480000,1346000
+180,182,"Suministro, desmonte e instalación rodillos ruedas traseras.",480000,1568000
+181,183,"Suministro, desmonte e instalación retenedores ruedas delanteras.",360000,345000
+182,184,"Suministro, desmonte e instalación retenedores ruedas traseras.",360000,345000
+183,185,"Suministro, desmonte e instalación de bujes centrales de barra estabilizadora.",980000,236000
+184,186,"Suministro, desmonte e instalación bujes de muelle trasero.",940000,679000
+185,187,"Suministro, desmonte e instalación bujes de muelle delantero.",940000,678000
+186,188,"Suministro, desmonte e instalación hoja principal del muelle.",1200000,989000
+187,189,"Suministro, desmonte e instalación hoja segunda de muelle.",1100000,870000
+188,190,"Suministro, desmonte e instalación tope amortiguador.",380000,190000
+189,191,"Suministro, desmonte e instalación base amortiguador.",680000,344444
+190,192,"Suministro, desmonte e instalación de esférica-rótula-terminal de dirección.",870000,689000
+191,193,"Suministro, desmonte e instalación de soportes y tornillos de centro de muelles.",320000,344000
+192,194,"Suministro, desmonte e instalación de tope muelles.",380000,223000
+193,195,"Suministro, desmonte e instalación de grapa muelle.",380000,260000
+194,196,"Suministro, desmonte e instalación cruceta del cardan.",380000,320000
+195,197,"Suministro, desmonte e instalación yugo del cardan.",920000,489000
+196,198,"Suministro, desmonte e instalación soporte central del cardan.",1480000,2200000
+197,199,"Suministro, desmonte e instalación kit de embrague (Prensa, Discos, Balinera, Collarín, guaya)",3200000,3890000
+198,200,"Suministro, desmonte e instalación bomba principal del sistema de embrague.",2200000,1700000
+199,201,"Suministro, desmonte e instalación bomba auxiliar del embrague.",980000,1200000
+200,202,Rectificada de volante y calibrar embrague.,850000,340000
+201,203,"Suministro , desmonte e instalación de sincronizadores caja de cambios",4800000,2600000
+202,204,Mantenimiento y reparación del toma fuerza,3800000,4800000
+203,205,"Mantenimiento general de la bomba hidráulica y tanque de almacenamiento (incluido empaquetadura, orings)",2800000,5600000
+204,206,"Suministro, desmonte e instalación y mantenimiento de cilindros hidráulicos de brazo",1340000,4800000
+205,207,"Suministro, desmonte e instalación de baterías",1350000,900000
+206,208,"Mantenimiento general del botón accionamiento eléctrico, sensor electrónico y acondicionamiento de agalla del freno de ahogo",860000,480000
+207,209,"Suministro, desmonte e instalación de espejos retrovisores con marco metálico derecho e izquierdo, espejos busca chivos y espejo busca ratas",2180000,330000
+208,210,Sondeo radiador e intercooler y pintura,1680000,330000
+209,211,"Suministro, desmonte e instalación de mangueras radiador",980000,680000
+210,212,Sincronización general y limpieza de inyectores,2100000,3300000
+211,213,"Suministro, desmonte e instalación de inyector",6200000,9800000
+212,214,Mantenimiento y reparación del compresor de aire del sistema de frenos.,1380000,2200000
+213,215,"Mantenimiento general, ajuste, montaje, calibración, drenaje del sistema de frenos. (incluye mano de obra)",980000,1890000
+214,216,"Mantenimiento, tensión ajuste y calibración del freno de seguridad-parqueo o de mano",850000,330000
+215,217,"Suministro, desmonte e instalación de Bombonas, raches, diafragmas, componentes del sistema de frenos.",970000,1700000
+216,218,"Suministro, desmonte e instalación de asbestos frenos ruedas.",480000,1200000
+217,219,"Suministro, desmonte e instalación mangueras de freno.",850000,450000
+218,220,Rectificada de campanas de freno.,420000,200000
+219,221,"Suministro, desmonte e instalación de campanas freno.",980000,980000
+220,222,"Suministro, desmonte e instalación válvula reguladora presión del sistema de frenos.",850000,890000
+221,223,"Suministro, desmonte e instalación de alarma y luz de reversa.",580000,550000
+222,224,"Suministro, desmonte e instalación de direccional completa.",940000,380000
+223,225,"Suministro, desmonte e instalación amortiguador delantero.",1690000,740000
+224,226,"Suministro, desmonte e instalación rodillos ruedas delanteras.",580000,840000
+225,227,"Suministro, desmonte e instalación rodillos ruedas traseras.",580000,840000
+226,228,"Suministro, desmonte e instalación retenedores ruedas delanteras.",380000,330000
+227,229,"Suministro, desmonte e instalación retenedores ruedas traseras.",3800000,460000
+228,230,"Suministro, desmonte e instalación de bujes centrales de barra estabilizadora.",680000,560000
+229,231,"Suministro, desmonte e instalación bujes de muelle trasero.",620000,890000
+230,232,"Suministro, desmonte e instalación bujes de muelle delantero.",630000,320000
+231,233,"Suministro, desmonte e instalación hoja principal del muelle.",1190000,700000
+232,234,"Suministro, desmonte e instalación hoja segunda de muelle.",1100000,845000
+233,235,"Suministro, desmonte e instalación tope amortiguador.",650000,280000
+234,236,"Suministro, desmonte e instalación base amortiguador.",520000,456000
+235,237,"Suministro, desmonte e instalación de esférica-rótula-terminal de dirección.",820000,468000
+236,238,"Suministro, desmonte e instalación de soportes y tornillos de centro de muelles.",320000,350000
+237,239,"Suministro, desmonte e instalación de tope muelles.",280000,245000
+238,240,"Suministro, desmonte e instalación de grapa muelle.",480000,750000
+239,241,"Suministro, desmonte e instalación kit de embrague (Prensa, Discos, Balinera, Collarín, guaya)",1980000,3689000
+240,242,Rectificada de volante y calibrar embrague.,850000,200000
+241,243,"Suministro , desmonte e instalación de sincronizadores caja de cambios",1800000,7500000
+242,244,"Suministro, desmonte e instalación de piñones 1ra, 2da, 3ra, 4ta, 5ta, 6ta, reversa de la caja de cambios",6580000,7500000
+243,245,"Suministro manual de operación, manual de mantenimiento, manual de partes y manual de servicio",3850000,220000
+244,246,"Diagnostico y Reparación del sistema de accionamiento volteo hidromecánico (bomba, tanque de almacenamiento y cilindro) incluido repuestos",4800000,8900000
+245,247,Diagnostico y Reparación del sistema de accionamiento volteo hidromecánico (Tomafuerza) incluido repuestos,3200000,5000000
+246,248,Diagnostico y Reparación del sistema de accionamiento volteo neumático (palancas de accionamiento de cabina) incluido repuestos,1800000,6500000
+247,249,"Suministro e instalación de logotipos (institucionales) con códigos internos de maquinaria, en material de impresiones adhesivas, cintas reflectivas y/o pintados de acuerdo a la solicitud de la entidad.",850000,750000
+248,250,"Latoneria y pintura cabina, incluye desmonte y monte de tapiceria sillas, millare, acometidas electricas",3500000,12000000
+249,251,"Suministro, monte y desmonte puerta delantera izquierda, incluye tapizado, accesorios mecanicmos internos puerta, vidrio lateral izquierdo",2100000,4200000
+250,252,"Suministro, desmonte y monte capot con tensores de ajuste, incluye pintura",1800000,3400000
+251,253,"Suministro, desmonte y monte careta delantera",2890000,6700000
+252,254,"Juego Farola (unidad) Izquierda y Farola (unidad) Derecha, incluye suministro, desmonte y monte  ",850000,4300000
+253,255,"Juego direccionales izquierda y derecha, incluye suministro, desmonte y monte",1200000,1800000
+254,256,"Suministro, desmonte y monte eyectores limpiabrisas, incluye motor electrico",990000,2900000
+255,257,"Suministro, desmonte y monte bomper delantero, incluye pintura de acuerdo al código de color del rodante",980000,3200000
+256,258,"Suministro, desmonte y monte panorámico trasero, incluye empaquetaduras",1870000,4700000
+257,259,"Suministro, desmonte e instalación de baterías",1350000,900000
+258,260,"Mantenimiento general del botón accionamiento eléctrico, sensor electrónico y acondicionamiento de agalla del freno de ahogo",1800000,890000
+259,261,"Suministro, desmonte e instalación de guaya para apagado de motor",870000,190000
+260,262,"Suministro, desmonte e instalación de espejos retrovisores con marco metálico derecho e izquierdo, espejos busca chivos y espejo busca ratas",2840000,340000
+261,263,"Suministro, desmonte e instalación del postenfriador de aceite . Incluye mantenimiento general",1380000,420000
+262,264,Sondeo radiador e intercooler y pintura,1870000,890000
+263,265,"Suministro, desmonte e instalación de mangueras radiador",980000,650000
+264,266,"Suministro, desmonte e instalación de ventilador de motor completo.",2980000,1500000
+265,267,"Suministro, desmonte e instalación de enfocador radiador.",2400000,489000
+266,268,"Desmonte mantenimiento y Reparación del turbocompresor completo, incluye empaquetaduras, rodamientos y repuestos",3200000,3465000
+267,269,Reparación de bomba inyección combustible original,5800000,6900000
+268,270,Sincronización general y limpieza de inyectores,2400000,2486000
+269,271,"Suministro, desmonte e instalación de inyector",62000000,7300000
+270,272,Reparación bomba de freno. Incluye empaquetaduras y repuestos,1280000,1700000
+271,273,"Mantenimiento general, ajuste, montaje, calibración, drenaje del sistema de frenos. (incluye mano de obra)",1200000,870000
+272,274,"Mantenimiento, tensión ajuste y calibración del freno de seguridad-parqueo o de mano",950000,220000
+273,275,"Suministro, desmonte e instalación de Bombonas, raches, diafragmas, componentes del sistema de frenos.",860000,650000
+274,276,"Suministro, desmonte e instalación de asbestos frenos ruedas.",590000,480000
+275,277,"Suministro, desmonte e instalación mangueras de freno.",870000,287680
+276,278,Rectificada de campanas de freno.,520000,125000
+277,279,"Suministro, desmonte e instalación de campanas freno.",980000,650000
+278,280,"Suministro, desmonte e instalación de bombona de freno de aire",1180000,2290000
+279,281,"Suministro, desmonte e instalación de raches del freno de aire",870000,278000
+280,282,"Suministro, desmonte e instalación válvula reguladora presión del sistema de frenos.",850000,440000
+281,283,Mantenimiento y reparación del compresor de aire del sistema de frenos.,1890000,1200000
+282,284,Mantenimiento y reparación de los depósitos de aire comprimido para el sistema de frenos.,1200000,1500000
+283,285,"Suministro, desmonte e instalación de instalación de Arnés cableado de alta.",670000,2300000
+284,286,"Suministro, desmonte e instalación de alarma y luz de reversa.",480000,690000
+285,287,"Suministro, desmonte e instalación de stop completo.",950000,750000
+286,288,"Suministro, desmonte e instalación de bombilla de direccional.",90000,340000
+287,289,"Suministro, desmonte e instalación de direccional completa.",950000,456000
+288,290,"Suministro, desmonte e instalación amortiguador delantero.",1240000,989000
+289,291,"Suministro, desmonte e instalación rodillos ruedas delanteras.",580000,556000
+290,292,"Suministro, desmonte e instalación rodillos ruedas traseras.",580000,489000
+291,293,"Suministro, desmonte e instalación retenedores ruedas delanteras.",460000,289000
+292,294,"Suministro, desmonte e instalación retenedores ruedas traseras.",4600000,307000
+293,295,"Suministro, desmonte e instalación de bujes centrales de barra estabilizadora.",850000,220000
+294,296,"Suministro, desmonte e instalación bujes de muelle trasero.",620000,660000
+295,297,"Suministro, desmonte e instalación bujes de muelle delantero.",630000,560000
+296,298,"Suministro, desmonte e instalación hoja principal del muelle.",1200000,890000
+297,299,"Suministro, desmonte e instalación hoja segunda de muelle.",1190000,890000
+298,300,"Suministro, desmonte e instalación tope amortiguador.",580000,222000
+299,301,"Suministro, desmonte e instalación base amortiguador.",570000,2340000
+300,302,"Suministro, desmonte e instalación de esférica-rótula-terminal de dirección.",430000,454000
+301,303,"Suministro, desmonte e instalación de soportes y tornillos de centro de muelles.",430000,210000
+302,304,"Suministro, desmonte e instalación de tope muelles.",520000,207000
+303,305,"Suministro, desmonte e instalación de grapa muelle.",520000,190000
+304,306,"Suministro, desmonte e instalación eje trasero.",3980000,2345000
+305,307,"Suministro, desmonte e instalación kit de embrague (Prensa, Discos, Balinera, Collarín, guaya)",3790000,3256000
+306,308,"Suministro, desmonte e instalación bomba principal del sistema de embrague.",2809000,1490000
+307,309,"Suministro, desmonte e instalación bomba auxiliar del embrague.",1920000,777000
+308,310,Rectificada de volante y calibrar embrague.,890000,190000
+309,311,"Suministro , desmonte e instalación de sincronizadores caja de cambios",3180000,2789000
+310,312,"Suministro, desmonte e instalación de piñones 1ra, 2da, 3ra, 4ta, 5ta, 6ta, reversa de la caja de cambios",6500000,6890000
+311,313,"Suministro, desmonte, instalación de tapa de caja de cambios, reparación reconstrucción, reemplazo de guías, resortes, palanca, torre, pera fuller de accionamiento neumático, ejes horquillas de accionamiento de velocidades.",5200000,7880000
+312,314,"Suministro, desmonte e instalación, conjunto corona speed, incluye rodamientos, retenedores, empaquetaduras y fluidos",3800000,5600000
+313,315,"Suministro manual de operación, manual de mantenimiento, manual de partes y manual de servicio",3850000,280000
+314,316,"Suministro e instalación de logotipos (institucionales) con códigos internos de maquinaria, en material de impresiones adhesivas, cintas reflectivas y/o pintados de acuerdo a la solicitud de la entidad.",850000,780000
+315,317,"Diagnostico y Reparación del sistema de accionamiento volteo hidromecánico (bomba, tanque de almacenamiento y cilindro) incluido repuestos",3890000,4700000
+316,318,Diagnostico y Reparación del sistema de accionamiento volteo hidromecánico (Tomafuerza) incluido repuestos,3200000,6800000
+317,319,Diagnostico y Reparación del sistema de accionamiento volteo neumático (palancas de accionamiento de cabina) incluido repuestos,1900000,6790000
+318,320,"Suministro, desmonte e instalación Caja de cambios incluye lubricante",9800000,17000000
+319,321,"Suministro, desmonte e instalación Eje propulzor Cardan",1390000,4700000
+320,322,"Suministro, desmonte e instalación Eje Cardan y rodamientos",1200000,3700000
+321,323,"Suministro , desmonte e instalación de Juego de bloques Delantero Remachado",1380000,2980777
+322,324,"Suministro , desmonte e instalación de Juego de bloques Trasero Remachado",1470000,3780657
+323,325,"Suministro , desmonte e instalación de Juego de sellos Delantero , sello trasero y sello tras ext",1580000,466909
+324,326,"Adquisición e instalación del tanque de combustible, incluye flotador, medidor de combustible, tapa de seguridad con llave, incluye kit accesorios de instalación",2200000,3723400
+325,327,"Suministro, desmonte e instalación de kit de cuchilla CUCHILLA 7 HUECOS 182.9 cm REF: 86577169",1870000,2500000
+326,328,"Suministro, desmonte e instalación Correa flexible de bomba del agua",210000,489000
+327,329,Desmonte e isntalación correa flexible de bomba del agua,280000,489000
+328,330,"Suministro, desmonte e instalación de tapa radiador con presión del sistema.",320000,89000
+329,331,"Suministro, desmonte e instalación mangueras radiador",480000,550000
+330,332,"Suministro, desmonte e instalación de ventilador de motor completo.",9500000,695890
+331,333,"Suministro, desmonte e instalación de enfocador radiador.",3500000,477000
+332,334,"Suministro, desmonte e instalación de espejo retrovisor convexo central panorámico de cabina.",420000,247000
+333,335,"Suministro, desmonte e instalación correas motor.",420000,244900
+334,336,Reparación de bomba inyección combustible original,6400000,7600000
+335,337,Sincronización general y limpieza de inyectores,3800000,2580000
+336,338,"Suministro, desmonte e instalación de cableado de arnés de alta",980000,3200000
+337,339,"Suministro, desmonte e instalación empaquetaduras o'rings de los gatos - actuadores del sistema hidráulico del equipo",3890000,2250000
+338,340,"Suministro, desmonte e instalación de soportes de motor - apoyos",850000,436000
+339,341,"Suministro, desmonte e instalación manguera de alta presión hidráulica, abrazaderas y accesorios de acople enfriador - intercambiador",920000,890000
+340,342,"Suministro, desmonte e instalación enfriador-Intercambiador de calor de fluido hidráulico. Incluye mangueras de alta presión hidráulica, abrazaderas y accesorios de acople",2800000,3570000
+341,343,"Reparación del turbocompresor completo, incluye empaquetaduras y rodamientos",3200000,3650000
+342,344,"Suministro manual de operación, manual de mantenimiento, manual de partes y manual de servicio",3850000,280000
+343,345,"Suministro e instalación de logotipos (institucionales) con códigos internos de maquinaria, en material de impresiones adhesivas, cintas reflectivas y/o pintados de acuerdo a la solicitud de la entidad. ",850000,780000
+344,346,Reconstrucción con soldadura y aporte de material estructural de la articulación móvil de la máquina.,1800000,1700000
+345,347,"Suministro, desmonte e instalación de pasador o pin de la estructura o articulación móvil de la máquina.",680000,890000
+346,348,"Suministro, desmonte e instalación de buje o camisa de la estructura o articulación móvil de la máquina",420000,980000
+347,349,"Mantenimiento y corrección de falla por perdida de potencia en el conjunto del convertidor de torque, incluye empaquetaduras, repuestos y pruebas técnicas de operación",18300000,4800000
+348,350,"Mantenimiento y corrección de falla por perdida de potencia en el conjunto del  servo transmisión,  incluye empaquetaduras, repuestos y pruebas técnicas de operación",32800000,14800000
+349,351,"Mantenimiento y corrección de falla por perdida de potencia en el conjunto bomba del sistema hidráulico principal, incluye empaquetaduras, repuestos y pruebas técnicas de operación",19600000,9800000
+350,352,Reconstrucción de la base de la cuchilla.,3200000,3200000
+351,353,Mantenimiento de Aire Acondicionado AA en la cabina.,3890000,2200000
+352,354,"Suministro, desmonte e instalación cables y terminales para baterías",480000,340000
+353,355,Reparación bomba de agua (incluye empaquetadura y sellantes),720000,990000
+354,356,"Suministro, desmonte e instalación Termóstato",390000,180000
+355,357,"Suministro, desmonte e instalación de cojinetes de bomba de agua.",490000,130000
+356,358,"Suministro, desmonte e instalación Correa flexible de bomba del agua",380000,250000
+357,359,"Suministro, desmonte e instalación de tapa radiador con presión del sistema.",420000,210000
+358,360,"Suministro, desmonte e instalación de mangueras radiador",520000,690000
+359,361,"Suministro, desmonte e instalación de ventilador de motor completo.",3180000,1400000
+360,362,"Suministro, desmonte e instalación de enfocador radiador.",2800000,489000
+361,363,"Reemplazo de mangueras de alta presión Hidráulica ensambladas con acoples, racores varios ensamblados según muestra",1970000,2900000
+362,364,"Suministro, desmonte e instalación de espejo retrovisor convexo central panorámico de cabina.",620000,290000
+363,365,Suministro bomba principal de frenos (hidráulica-neumática-mixta). Desmonte e instalación bomba principal de frenos (hidráulica-neumática-mixta),3790000,890000
+364,366,Suministro bomba auxiliar de frenos (hidráulica-neumática-mixta). Desmonte e instalación bomba auxiliar de frenos (hidráulica-neumática-mixta),3790000,755000
+365,367,Reparación bomba de freno incluido empaquetaduras y repuestos.,2850000,440000
+366,368,"Mantenimiento general, ajuste, montaje, calibración, drenaje del sistema de frenos. (mano de obra)",980000,3460000
+367,369,"Suministro, desmonte e instalación guayas de freno de seguridad - parqueo o de mano",1480000,730000
+368,370,"Mantenimiento, tensión y ajuste freno de seguridad-parqueo o de mano",890000,450000
+369,371,"Suministro, desmonte e instalación de émbolos, cilindros, empaquetaduras, chupas del sistema de frenos.",16800000,3500000
+370,372,"Suministro, desmonte e instalación de pastillas frenos ruedas.",3970000,880000
+371,373,"Suministro, desmonte e instalación mangueras y tubos de freno.",2100000,643000
+372,374,"Rectificada cepillada, de discos de freno.",480000,480000
+373,375,"Suministro, desmonte e instalación de discos freno.",7380000,1220000
+374,376,"Suministro, desmonte e instalación de caliper - mordazas de frenos",12800000,2200000
+375,377,"Suministro, desmonte e instalación válvula reguladora presión del sistema de frenos.",1280000,976000
+376,378,"Suministro, desmonte e instalación de buje o camisa de la estructura o articulación móvil de la máquina",7800000,900000
+377,379,Reconstrucción con soldadura y aporte de material estructural de la articulación móvil de la máquina.,3280000,890000
+378,380,Lavado y limpieza del tanque del combustible.,640000,550000
+379,381,"Suministro, desmonte e instalación de cuchilla doble bisel con agujeros de tornillos de ajuste",3210000,3890000
+380,382,"Suministro, desmonte e instalación de juego de pernos y tuercas con arandelas y guasas del sistema hidráulico",287000,880000
+381,383,Mantenimiento y Lubricación de rodamientos en las llantas,4780000,330000
+382,384,"Suministro, desmonte e instalación de pasador o pin de la estructura o articulación móvil de la máquina.",980000,4500000
+383,385,Suministro de CUCHILLAS: (3658x635x22)mm. Desmonte y monte de CUCHILLAS: (3658x635x22)mm,3280000,3900000
+384,386,Suministro de ESQUINERAS. Desmonte y monte de ESQUINERAS,2980000,1900000
+385,388,Suministro mangueras radiador superior y/o inferior . Desmonte y monte mangueras radiador,87000,659000
+386,389,Suministro enfocador radiador. Desmonte y monte enfocador radiador,2980000,995000
+387,390,Suministro de mangueras de alta presión hidráulica ensambladas con acoples y racores ( ensamblados según muestra y de acuerdo a especificaciones tecnicas de fabrica ). Desmonte y monte de mangueras de alta presión hidráulica ensambladas con acoples y racores ( ensamblados según muestra y de acuerdo a especificaciones tecnicas de fabrica ),4870000,2700000
+388,391,"Suministro de manguera de la servo transmisión-tanque de la servo transmisión (presenta material cristalizado, desgaste por fricción y tiempo de uso). Desmonte e instalación de manguera de la servo transmisión-tanque de la servo transmisión (presenta material cristalizado, desgaste por fricción y tiempo de uso)",865000,197000
+389,392,Suministro e instalación de orvitrol de sistema de dirección hidráulica. Desmonte e instalación de orvitrol de sistema de dirección hidráulica,9870000,3200000
+390,393,Suministro kit Juego de dientes del Ripper . Desmonte e instalación de kit Juego de dientes del Ripper,8560000,6300000
+391,394,"Suministro de émbolos, cilindros, empaquetaduras, chupas del sistema de frenos. Desmonte e instalación de émbolos, cilindros, empaquetaduras, chupas del sistema de frenos",2830000,3600000
+392,395,Suministro de asbestos frenos ruedas. Desmonte e instalación frenos ruedas,980000,2200000
+393,396,Suministro mangueras o tuberías sistema de freno. Desmonte e instalación mangueras o tuberías sistema de freno,1800000,1800000
+394,397,Suministro de campanas freno. Desmonte e instalación de campanas freno,3870000,3300000
+395,398,Suministro de bombona de freno de aire. Desmonte e instalación de bombona de freno de aire,1320000,1900000
+396,399,Suministro de raches del freno de aire. Desmonte e instalación de raches del freno de aire,870000,550000
+397,400,Suministro válvula reguladora presión del sistema de frenos.. Desmonte e instalación válvula reguladora presión del sistema de frenos.,980000,890000
+398,401,Suministro de switch de luces completo. Desmonte e instalación de switch de luces completo,360000,440000
+399,402,"Suministro, desmonte e instalación de pasador o pin de la estructura o articulación móvil de la máquina.",870000,4300000
+400,403,"Suministro, desmonte e instalación de buje o camisa de la estructura o articulación móvil de la máquina",820000,780000
+401,404,Reconstrucción con soldadura y aporte de material estructural de la articulación móvil de la máquina.,2130000,680000
+402,405,Overhaul conjunto motor,19800000,17000000
+403,406,"Kit Suministro, desmonte e instalación de pistones y anillos (incluyendo bielas, cilindros o camisas, bulones, casquetes, suplementos, chavetas)",8700000,19600000
+404,407,"Suministro, desmonte e instalación de válvulas de admisión y escape.(incluyendo , impulsadores, resortes, válvulas, chavetas, cuñas, balancines)",4320000,5600000
+405,408,"Suministro, desmonte e instalación de empaque tapa válvulas.",530000,890000
+406,409,"Rectificado reconstrucción, e instalación bujes de árbol de levas completo",810000,2780000
+407,410,"Rectificación de motor, incluye culata, arbol de levas, bloque, cigüeñal y otros.",6700000,5800000
+408,411,"Desmonte, instalación y reparación motor de arranque",940000,1800000
+409,412,"Suministro, desmonte e instalación de empaque cárter.",420000,3700000
+410,413,Reparación de bomba inyección combustible original,18700000,7800000
+411,414,"Suministro, desmonte e instalación de empaque múltiple de admisión.",217800,1700000
+412,415,"Suministro, desmonte e instalación de correas motor.",412000,460000
+413,416,"Suministro, desmonte e instalación ductos, mangueras o tubos del sistema de Inyección tanque-filtros-bomba-retorno, bomba principal-filtros-motor, línea alta presión-flauta-inyectores",1980000,8700000
+414,417,"Suministro, desmonte e instalación barras y acoples del sistema de dirección",6180000,1156000
+415,418,"Suministro, desmonte e instalación brazos del sistema de dirección",4820000,879000
+416,419,"Suministro, desmonte e instalación de empaquetadura, o'rings de los cilindros hidráulicos o actuadores del sistema de la dirección",2290000,980000
+417,420,"Suministro, desmonte e instalación de cilindro hidráulico del sistema de dirección",1980000,1890000
+418,421,"Suministro, desmonte e instalación de kit de cuchilla doble bisel material anti desgaste para balde frontal.",3180000,3700000
+419,422,"Suministro, desmonte e instalación de pernos de ajuste de cuchilla",438000,1200000
+420,423,"Suministro, desmonte e instalación inyectores",5840000,4600000
+421,424,"Suministro, desmonte e instalación cinturón de seguridad silla operario",480000,450000
+422,425,"Suministro, desmonte e instalación mangueras radiador",870000,680000
+423,426,Reparación bomba de agua (incluye empaquetadura y sellantes),680000,740000
+424,427,"Suministro, desmonte e instalación de espejo retrovisor convexo central panorámico de cabina",387000,230000
+425,428,"Suministro de elevadores, relés o contactores del sistema eléctrico.",350000,490000
+426,429,"Desmonte e instalación de elevadores, relés o contactores del sistema eléctrico.",320000,120000
+427,430,"Suministro, desmonte e instalación de cableados con pachas o terminales ensambladas del sistema eléctrico",6780000,3200000
+428,431,Reparación y mantenimiento de la estructura de la silla del operador,7340000,330000
+429,432,"Mantenimiento general, ajuste, montaje, calibración, drenaje del sistema de frenos.",4980000,1700000
+430,433,"Realizar, calibrar y mantenimiento general, verificación de presiones de la bomba hidráulica principal. Mantenimiento incluido cambio de empaquetadura de la bomba hidráulica",7600000,2100000
+431,434,"Mantenimiento general del sistema hidráulico, drenaje del circuito, limpieza de depósito",1870000,900000
+432,435,Lavado y limpieza del tanque del combustible.,870000,550000
+433,436,Sincronización general y limpieza de inyectores.,1870000,2400000
+434,437,Desmonte e instalación para mantenimiento general de motor de arranque,640000,1634000
+435,438,"Mantenimiento general del sistema hidráulico, drenaje del circuito, limpieza de depósito.",3280000,3300000
+436,1,"Suministro, desmonte e instalación de llantas 16 lonas labrado espina de pescado. LLANTA DELANTERA: 2 x 13.00x24 12PR G2",7960000,3933000
+437,2,"Suministro, desmonte e instalación de llantas 16 lonas labrado espina de pescado. LLANTA TRASERA: 4 x 13.00x24 12PR G2",15920000,3456000
+438,3,"Despinches, montajes, reparación-vulcanizado y/o reconstrucción de llantas, Suministro, desmonte e instalación de válvulas.",280000,1200000
+439,4,neumático 1300*24 válvula corta,380000,890000
+440,5,válvulas sellomatic de cobre cortas TR218,57800,290000
+441,6,Despinchada y calibración de presión de aire en taller.,120000,330000
+442,7,Despinchada y calibración de presión de aire a domicilio.,180000,300000
+443,8,"Suministro, desmonte e instalación de rin según medidas y especificaciones del tipo de llanta",430000,4500000
+444,9,"Suministro, desmonte e instalación de esparrago, chapeta y tuerca.",2180000,900000
+445,10,Suministro de Rin para diámetros 13.00x24,6300000,3800000
+446,11,"Suministro, desmonte e instalación de LLANTA DELANTERA: 12.5/80 x18 12 telas",3100000,3100000
+447,12,"Suministro, desmonte e instalación de LLANTA TRASERA: 16.5 x 28, 12 telas",9100000,3100000
+448,13,válvula sellomatic,57800,220000
+449,14,"neumático 12,5/80*18 válvula corta",420000,280000
+450,15,neumático 16.9 x 28 válvula corta,910000,289000
+451,16,"Despinches, montajes, reparación-vulcanizado y/o reconstrucción de llantas, Suministro, desmonte de válvulas.",280000,190000
+452,17,Despinchada y calibración de presión de aire en taller.,80000,90000
+453,18,Despinchada y calibración de presión de aire a domicilio.,120000,250000
+454,19,"Suministro, desmonte e instalación de rin según medidas y especificaciones del tipo de llanta",9320000,200000
+455,20,"Suministro, desmonte e instalación de esparrago y tuerca.",97800,320000
+456,21,Suministro de Rin para llanta delantera diámetros 12.5 / 80 x 18,4100000,1800000
+457,22,Suministro de Rin para llanta trasera diámetros 16.5 x 28 ,9100000,1800000
+458,23,"Suministro, desmonte e instalación de llantas labrado Tipo HULK LLANTA DELANTERA:12x16.5 12PR",2680000,3300000
+459,24,"Suministro, desmonte e instalación de llantas labrado Tipo HULK. LLANTA TRASERA: 12x16.5 12PR",2680000,3300000
+460,25,"Neumático 12*16,5 válvula corta",257800,480000
+461,26,válvula sellomatic,57800,220000
+462,27,"Despinches, montajes, reparación-vulcanizado y/o reconstrucción de llantas, Suministro, desmonte e instalación de válvulas.",280000,260000
+463,28,"Suministro, desmonte e instalación de RIN para llanta sellomatic : 12x16.5 12PR",1690000,1800000
+464,29,Despinchada y calibración de presión de aire en taller.,80000,960000
+465,30,Despinchada y calibración de presión de aire a domicilio.,180000,290000
+466,31,"Suministro, desmonte e instalación de esparrago y tuerca.",47800,320000
+467,32,"Suministro, desmonte e instalación de LLANTA: 14,9*24 8 pr r-3",8290000,3100000
+468,33,"neumático 14,9*24 válvula corta",980000,480000
+469,34,"Despinches, montajes, reparación-vulcanizado y/o reconstrucción de llantas, Suministro, desmonte e instalación de válvulas.",280000,550000
+470,35,"Suministro, desmonte e instalación de rin según medidas y especificaciones del tipo de llanta. Diámetro de llanta 14,9*24",8700000,1800000
+471,36,Despinchada y calibración de presión de aire en taller.,80000,90000
+472,37,Despinchada y calibración de presión de aire a domicilio.,180000,290000
+473,38,"Suministro, desmonte e instalación, desmonte e instalación de esparrago y tuerca.",51200,320000
+474,39,"Suministro, desmonte e instalación de LLANTA DELANTERA: (2) 235/75R17.5",3100000,3270000
+475,40,"Suministro, desmonte e instalación de LLANTA TRASERA: (4) 235/75R17.5 + REPUESTO",7680000,3260000
+476,41,"Despinches, montajes, reparación-vulcanizado y/o reconstrucción de llantas, Suministro, desmonte de válvulas.",320000,600000
+477,42,Despinchada y calibración de presión de aire en taller.,80000,120000
+478,43,Despinchada y calibración de presión de aire a domicilio.,180000,300000
+479,44,"Suministro, desmonte e instalación de rin según medidas y especificaciones del tipo de llanta",2980000,1900000
+480,45,"Suministro, desmonte e instalación de esparrago y tuerca.",478000,300000
+481,46,Suministro de Rin para llanta diámetros 235/75R17.5,2980000,1900000
+482,47,"Suministro, desmonte e instalación de LLANTA DELANTERA: 2 (10.00 - 20 ) - 8,25"" X 22,5""",6360000,3100000
+483,48,"Suministro, desmonte e instalación de LLANTA TRASERA: 4 (10.00 - 20 ) 8,25"" X 22,5"" + 1 REPUESTO",12720000,2950000
+484,49,neumáticos 1100*20 válvula larga,870000,330000
+485,50,"Despinches, montajes, reparación-vulcanizado y/o reconstrucción de llantas, Suministro, desmonte e instalación de válvulas.",,500000
+486,51,Despinchada y calibración de presión de aire en taller.,80000,300000
+487,52,Despinchada y calibración de presión de aire a domicilio.,180000,280000
+488,53,"Suministro, desmonte, desmonte e instalación de rin según medidas y especificaciones del tipo de llanta",2980000,200000
+489,54,"Suministro, desmonte, desmonte e instalación de esparrago y tuerca.",57800,300000
+490,55,"Suministro de Rin para llanta diámetros (10.00 - 20 ) - 8,25"" X 22,5""",2980000,1900000
+491,56,"Suministro, desmonte e instalación de conjunto llantas y de rines tipo artilleros (Sello-Matic) diámetros dimensiones según corresponda 22.5 x 8.25 existentes: LLANTA TRASERA: 4 x 1100/20 SUPERCORDILLERANA- G100",12180000,3100000
+492,57,Llanta 12R22.5 ref Armor max MSD 150/147K H (opción),3180000,2900000
+493,58,"Suministro, desmonte e instalación de conjunto llantas y de rines tipo artilleros (Sello-Matic) diámetros dimensiones según corresponda 22.5 x 8.25 LLANTA DELANTERA: 2 x 1100/20 CT150",6090000,7900000
+494,59,Llanta 12R22.5 ref Armor max MSS 150/147K (Opción),3045000,2900000
+495,60,"Despinches, montajes, reparación-vulcanizado y/o reconstrucción de llantas, Suministro, desmonte e instalación de válvulas.",380000,600000
+496,61,Despinchada y calibración de presión de aire en taller.,80000,290000
+497,62,Despinchada y calibración de presión de aire a domicilio.,180000,600000
+498,63,"Suministro, desmonte e instalación de rin según medidas y especificaciones del tipo de llanta",3180000,1900000
+499,64,"Suministro, desmonte e instalación de rin según medidas y especificaciones del tipo de llanta (Opción)",3180000,1900000
+500,65,"Suministro, desmonte e instalación de esparrago y tuerca.",57800,350000
+501,66,Suministro de Rin para llanta diámetros 12R22.5,3180000,1900000
+502,67,"Suministro, desmonte e instalación de conjunto llantas y de rines tipo artilleros (Sello-Matic) diámetros dimensiones según corresponda 22.5 x 8.25 existentes: LLANTA TRASERA: 4 x 1100/20 SUPERCORDILLERANA- G100",14120000,3100000
+503,68,Llanta 12R22.5 ref Armor max MSD 150/147K H (opción),2670000,2980000
+504,69,"Suministro, desmonte e instalación de conjunto llantas y de rines tipo artilleros (Sello-Matic) diámetros dimensiones según corresponda 22.5 x 8.25 LLANTA DELANTERA: 2 x 1100/20 CT150",7670000,3100000
+505,70,Llanta 12R22.5 ref Armor max MSS 150/147K (Opción),2670000,7690000
+506,71,"Suministro, desmonte e instalación de rin con llanta sellomatic labrado 50/50 multipropósito, diámetro correspondiente, para repuesto.",4780000,1980000
+507,72,"Despinches, montajes, reparación-vulcanizado y/o reconstrucción de llantas, Suministro, desmonte e instalación de válvulas.",380000,600000
+508,73,Despinchada y calibración de presión de aire en taller.,80000,390000
+509,74,Despinchada y calibración de presión de aire a domicilio.,180000,450000
+510,75,"Suministro, desmonte e instalación de rin según medidas y especificaciones del tipo de llanta",2180000,1900000
+511,76,"Suministro, desmonte e instalación de rin según medidas y especificaciones del tipo de llanta (Opción)",2180000,1900000
+512,77,"Suministro, desmonte e instalación de esparrago y tuerca.",478000,450000
+513,78,Suministro de Rin para llanta diámetros 12R22.5,2180000,1900000
+514,79,"Suministro, desmonte e instalación de llantas labrado Tipo HULK LLANTA DELANTERA:12x16.5 12PR",2680000,3100000
+515,80,"Suministro, desmonte e instalación de llantas labrado Tipo HULK. LLANTA TRASERA: 12x16.5 12PR",2680000,3100000
+516,81,"neumático 12*16,5 válvula corta",257800,500000
+517,82,válvula sellomatic,57800,100000
+518,83,"Despinches, montajes, reparación-vulcanizado y/o reconstrucción de llantas, Suministro, desmonte e instalación de válvulas.",280000,480000
+519,84,"Suministro, desmonte e instalación de RIN para llanta sellomatic : 12x16.5 12PR",2690000,1900000
+520,85,Despinchada y calibración de presión de aire en taller.,80000,450000
+521,86,Despinchada y calibración de presión de aire a domicilio.,180000,300000
+522,87,"Suministro, desmonte e instalación de esparrago y tuerca.",47800,290000
+523,88,Suministro de Rin para diámetros 12x16.5,1380000,1900000
+524,89,"Suministro, desmonte e instalación de LLANTA DELANTERA: 2 x 23.5 - 25 - 16PR",2680000,3100000
+525,90,"Suministro, desmonte e instalación de LLANTA TRASERA: 2 x 23.5 - 25 - 16PR",2680000,3100000
+526,91,"neumático 23,5*25 válvula larga",257800,290000
+527,92,protector,57800,500000
+528,93,"Despinches, montajes, reparación-vulcanizado y/o reconstrucción de llantas, Suministro, desmonte e instalación de válvulas.",280000,500000
+529,94,"Suministro, desmonte e instalación de rin según medidas y especificaciones del tipo de llanta. Diámetro de llanta 23.5 - 25 - 16PR",1690000,600000
+530,95,Despinchada y calibración de presión de aire en taller.,80000,300000
+531,96,Despinchada y calibración de presión de aire a domicilio.,180000,600000
+532,97,"Suministro, desmonte e instalación, desmonte e instalación de esparrago y tuerca.",47800,360000
+533,98,"Suministro, desmonte e instalación de llantas, labrado espina de pescado, LLANTA TRASERA: 4 x 17.5 x 25-12PR L-2",16400000,3100000
+534,99,"Suministro, desmonte e instalación de llantas, labrado espina de pescado, LLANTA DELANTERA: 2 x 17.5 x 25-12PR L-2",8200000,3100000
+535,100,"neumático 17,5*25 válvula corta",920000,120000
+536,101,"protector R25 para llanta 17,5*25",280000,600000
+537,102,válvulas sellomatic de cobre cortas TR218,57800,290000
+538,103,"Despinches, montajes, reparación-vulcanizado y/o reconstrucción de llantas, Suministro, desmonte e instalación de válvulas.",480000,500000
+539,104,Despinchada y calibración de presión de aire en taller.,80000,100000
+540,105,Despinchada y calibración de presión de aire a domicilio.,380000,400000
+541,106,"Suministro, desmonte e instalación de rin según medidas y especificaciones del tipo de llanta",4180000,1900000
+542,107,"Suministro, desmonte e instalación de esparrago y tuerca.",47800,300000
+543,108,"Suministro de Rin para diámetros 17,5*25",4180000,1900000
+544,109,"Suministro, desmonte e instalación de LLANTA DELANTERA: 12.5/80-18 10PR",3100000,3200000
+545,110,"Suministro, desmonte e instalación de LLANTA TRASERA: 19.5 L -24, 8PR R4",6100000,3200000
+546,111,Válvula sellomatic,57800,30000
+547,112,"neumático 12,5/80*18 válvula corta",420000,500000
+548,113,"neumático 19,5l*24 válvula corta",910000,650000
+549,114,"Despinches, montajes, reparación-vulcanizado y/o reconstrucción de llantas, Suministro, desmonte de válvulas.",280000,600000
+550,115,Despinchada y calibración de presión de aire en taller.,80000,150000
+551,116,Despinchada y calibración de presión de aire a domicilio.,120000,330000
+552,117,"Suministro, desmonte e instalación de rin según medidas y especificaciones del tipo de llanta",9320000,260000
+553,118,"Suministro, desmonte e instalación de esparrago y tuerca.",97800,300000
+554,119,Suministro de Rin para llanta trasera diámetros 19.5L - 24,4100000,1900000
+555,120,Suministro de Rin para llanta delantera diámetros 12.5/80-18 ,9100000,1900000
+556,1,"Extintor de Multiproposito ABC de 20 lbs, recargar con agente expulsor polvo quimico seco presurizado con nitrogeno, apto para fuegos de la clase A-B-C:  A. Solidos - B. Líquidos inflamables - C. Equipos eléctricos. Ademas realizar mantenimiento para revisar la presión del extintor asegurandose de que esté en el nivel adecuado, la fecha de vencimiento del agente extintor para garantizar su efectividad, el estado físico del extintor buscando abolladuras, corrosión u otros daños que puedan afectar su rendimiento; La manguera y la boquilla para asegurarse de que estén en buenas condiciones y la etiqueta del extintor para verificar que toda la información sea clara y legible.",420000,155000
+557,2,Suministro de Kit de Carretera .,580000,579000
+558,3,"Suministro de ALICATE PRESION HOMBRESOLO RECTO 10"".Alicate Presión Hombre solo Recto 10""",180000,240000
+559,4,"Suministro de volvedor palanca cuadrante 3/4"".",640000,450000
+560,5,Suministro de Llave copa de tacones diámetro de perno (24 mm y/o 15/16)..,390000,330000
+561,6,Suministro de engrasadora neumática/manual con adaptadores de acople rápido..,780000,714000
+562,7,"Suministro de manguera de presión neumática con terminales y acoples rápidos ensamblados. Longitud de manguera 15metros - 20metros, presiones de resistencia",480000,1345000
+563,8,"Suministro de HERRAMIENTA/ LLAVE DE SUNCHOS PARA SOLTAR FILTRO DE ACEITE 31/2"" A 3.7/8"". Herramienta/ LLAVE De Sunchos PARA SOLTAR FILTRO DE ACEITE 3 1/2"" A 3.7/8""",2980000,330000
+564,9,Suministro de MEDIDOR DE CORRIENTE. Medidor de Corriente,290000,214000
+565,10,Arrancador de batería 24V.,1980000,1580000
+566,11,"Cadena de eslabones grado 80, calibre 1"".3 metros",980000,1400000
+567,12,"Reata con ratchet / malacate de 5"" y gancho metalico.8 metros, material: poliester de alta tenacidad; Material metálico: Acero de alta resistencia",1890000,560000
+568,13,Llave para filtro tipo cadena.,280000,180000
+569,14,Llave para filtro de tres patas.,240000,220000
+570,15,Llave banda metálica para filtro.,240000,130000
+571,16,"Barra de acero de 14"".Barra tipo pica - pala",148000,220000
+572,17,"Machete con agarre antiderrapante.Largo: 18"" (46 cm)",428000,80000
+573,18,"Extintor de Multiproposito ABC de 20 lbs, recargar con agente expulsor polvo quimico seco presurizado con nitrogeno, apto para fuegos de la clase A-B-C:  A. Solidos - B. Líquidos inflamables - C. Equipos eléctricos. Ademas realizar mantenimiento para revisar la presión del extintor asegurandose de que esté en el nivel adecuado, la fecha de vencimiento del agente extintor para garantizar su efectividad, el estado físico del extintor buscando abolladuras, corrosión u otros daños que puedan afectar su rendimiento; La manguera y la boquilla para asegurarse de que estén en buenas condiciones y la etiqueta del extintor para verificar que toda la información sea clara y legible.",420000,155000
+574,19,Suministro de Kit de Carretera: BOTIQUIN TIPO A + 2 CONOS CON CINTA REFLECTIVA DE70 CM + 2 PALETAS DE PARE SIGA.,580000,579000
+575,20,Suministro de Juego de llaves fijas. .,780000,480000
+576,21,Suministro de juego de copas cuadrante 3/4 tipo pesado.,2890000,2400000
+577,22,Suministro de juego de destornilladores pala y estrella.,387000,230000
+578,23,"Suministro de alicate aislante eléctrico. AISLADO 8"" 1000V. Ref.13982",310000,220000
+579,24,"Suministro de ALICATE PRESION HOMBRESOLO RECTO 10"".Alicate Presión Hombre solo Recto 10""",180000,167000
+580,25,"Suministro de volvedor palanca cuadrante 3/4"".",640000,338000
+581,26,Suministro de llave copa de tacones diámetro de perno (33 mm y/o 1-1/4).,380000,320000
+582,27,"Suministro de LLAVE DE EXPANSIÓN AJUSTABLE CROMADA 6"" AISLADA AJUSTABLE CROMADA 12"".Llave De Expansión Ajustable Cromada 6"" Aislada. Ref.706-G",290000,98000
+583,28,Suministro de Gato Hidráulico mayor a 15-20 Ton. .,520000,670000
+584,29,"Extintor de Multiproposito ABC de 20 lbs, recargar con agente expulsor polvo quimico seco presurizado con nitrogeno, apto para fuegos de la clase A-B-C:  A. Solidos - B. Líquidos inflamables - C. Equipos eléctricos. Ademas realizar mantenimiento para revisar la presión del extintor asegurandose de que esté en el nivel adecuado, la fecha de vencimiento del agente extintor para garantizar su efectividad, el estado físico del extintor buscando abolladuras, corrosión u otros daños que puedan afectar su rendimiento; La manguera y la boquilla para asegurarse de que estén en buenas condiciones y la etiqueta del extintor para verificar que toda la información sea clara y legible.",420000,155000
+585,30,Suministro de Kit de Carretera: BOTIQUIN TIPO A + 2 CONOS CON CINTA REFLECTIVA DE70 CM + 2 PALETAS DE PARE SIGA.,980000,220000
+586,31,"Suministro de volvedor palanca cuadrante 3/4"".",640000,338000
+587,32,"Suministro de LLAVE DE EXPANSIÓN AJUSTABLE CROMADA 6"" AISLADA AJUSTABLE CROMADA 12"".Llave De Expansión Ajustable Cromada 6"" Aislada. Ref.706-G",290000,98000
+588,33,Suministro de llave copa de tacones diámetro de perno (33 mm y/o 1-1/4).,380000,280000
+589,35,"Extintor de Multiproposito ABC de 20 lbs, recargar con agente expulsor polvo quimico seco presurizado con nitrogeno, apto para fuegos de la clase A-B-C:  A. Solidos - B. Líquidos inflamables - C. Equipos eléctricos. Ademas realizar mantenimiento para revisar la presión del extintor asegurandose de que esté en el nivel adecuado, la fecha de vencimiento del agente extintor para garantizar su efectividad, el estado físico del extintor buscando abolladuras, corrosión u otros daños que puedan afectar su rendimiento; La manguera y la boquilla para asegurarse de que estén en buenas condiciones y la etiqueta del extintor para verificar que toda la información sea clara y legible.",420000,155000
+590,36,Suministro de Kit de Carretera.,580000,579000
+591,37,"Suministro de ALICATE PRESION HOMBRESOLO RECTO 10"".Alicate Presión Hombre solo Recto 10""",180000,98000
+592,38,"Suministro de volvedor palanca cuadrante 3/4"".",640000,338000
+593,39,Suministro de Suministro de cadena de eslabones EN ACERO TIPO PESADO con ganchos en los extremos para tiro de remolque de maquinas. Longitudes MINIMAS 10 metros,390000,390000
+594,40,"Suministro de llave copa de tacones diámetro de perno (36,37 mm y/o 1 - 7/16).",780000,220000
+595,41,Arrancador de batería 24V.,1980000,300000
+596,42,"Cadena de eslabones grado 80, calibre 1"".3 metros",98000,1200000
+597,43,"Reata con ratchet / malacate de 5"" y gancho metalico.8 metros, material: poliester de alta tenacidad; Material metálico: Acero de alta resistencia",2980000,390000
+598,44,Llave para filtro tipo cadena.,280000,180000
+599,45,Llave para filtro de tres patas.,280000,220000
+600,46,Llave banda metálica para filtro.,2480000,190000
+601,47,"Barra de acero de 14"".Barra tipo pica - pala",240000,190000
+602,48,"Machete con agarre antiderrapante.Largo: 18"" (46 cm)",42600,210000
+603,49,"Extintor de Multiproposito ABC de 20 lbs, recargar con agente expulsor polvo quimico seco presurizado con nitrogeno, apto para fuegos de la clase A-B-C:  A. Solidos - B. Líquidos inflamables - C. Equipos eléctricos. Ademas realizar mantenimiento para revisar la presión del extintor asegurandose de que esté en el nivel adecuado, la fecha de vencimiento del agente extintor para garantizar su efectividad, el estado físico del extintor buscando abolladuras, corrosión u otros daños que puedan afectar su rendimiento; La manguera y la boquilla para asegurarse de que estén en buenas condiciones y la etiqueta del extintor para verificar que toda la información sea clara y legible.",420000,155000
+604,50,Suministro de Kit de Carretera: BOTIQUIN TIPO A + 2 CONOS CON CINTA REFLECTIVA DE70 CM + 2 PALETAS DE PARE SIGA.,980000,579000
+605,51,Suministro de juego de copas cuadrante 3/4 tipo pesado.,2890000,1200000
+606,52,"Suministro de ALICATE PRESION HOMBRESOLO RECTO 10"". Alicate Presión Hombre solo Recto 10""",180000,240000
+607,53,"Suministro de volvedor palanca cuadrante 3/4"".",640000,338000
+608,54,Suministro de llave copa de tacones diámetro de perno (34 mm y/o 1- 5/16.,390000,300000
+609,55,"Suministro de Suministro de JGO DESTORNILLADORES 10 PZ COMB. De Pala: 3/16x4,1/4x4,1/4x6,3/16x6 Estrella:N1x4,N.2x4""",290000,280000
+610,56,Suministro de JGO LLAVES CORONA 6-22MM 8PZ. Jgo Llaves Corona 6-22mm 8pz,490000,439000
+611,57,Suministro de JGO LLAVES BOCA 6-22MM 8PZ. Jgo Llaves Boca 6-22mm 8pz,520000,459000
+612,58,Suministro de JGO LLAVES BOCA CURVAS(MEDIA LUNA) 6-22MM 8PZ. JGO LLAVES BOCA CURVAS (Medialuna) 6-22MM 8PZ,870000,440000
+613,59,Suministro de JGO LLAVES MIXTAS DE 6 A 32 MM X 23 PIEZAS . Jgo Llaves Mixtas De 6 A 32 Mm X 23 Piezas,920000,550000
+614,60,Suministro de MEDIDOR AIRE DOBLE BOQUI 10-150 PSI. Medidor Aire Doble Boquilla 10-150 Psi,210000,280000
+615,61,Suministro de MARTILLO DE BOLA 32 OZ. Martillo De Bola 32 Oz,198000,90000
+616,62,Suministro de PISTOLA METÁLICA PETROLIZADORA. Pistola Metálica Petrolizadora,280000,290000
+617,63,Suministro de CEPILLO ALAMBRE DE ACERO MANGO MADERA 3X19HILERAS INOX . CEPILLO Alambre De Acero MANGO MADERA 3X19Hileras INOX,97000,90000
+618,64,"Suministro de HERRAMIENTA/ LLAVE DE SUNCHOS PARA SOLTAR FILTRO DE ACEITE 31/2"" A 3.7/8"".  Herramienta/ LLAVE De Sunchos PARA SOLTAR FILTRO DE ACEITE 3 1/2"" A 3.7/8""",190000,140000
+619,65,"Suministro de DADOS M.1/2"" JGO.14PZ. Jgo Dados M.1/2"" 14pz 10-22mm",870000,290000
+620,66,Suministro de ACEITERA GROZ FLEXIBLE 1000 ML. Aceitera Groz Flexible 1000 Ml,98000,90000
+621,67,Suministro de MULTIMETRO TESTER DIGITAL PROFESIONAL . Multímetro Tester Digital Profesional. Ref.MUT-39,490000,220000
+622,68,Suministro de MEDIDOR DE CORRIENTE. Medidor de Corriente,290000,190000
+623,69,Suministro de JUEGO LAVES TORX . Jgo Llaves Torx Pro 8pz,180000,330000
+624,70,Suministro de JUEGO DE PINZAS PARA ABRIR CERRAR CHAVETAS DE PUNTAS 5 PCS. Juego de Pinzas para Abrir Cerrar Chavetas de Puntas x 5 Piezas.,680000,290000
+625,71,"Suministro de ADAPTADOR 1/2""F-3/4""M. Adaptador 1/2""F-3/4""M",96000,80000
+626,72,"Suministro de CALIBRADOR RELOJ CARATULA DIMENSIONES 6"" 0-150MM. Calibre Pie de Rey con Reloj Caratula Dimensiones 6"" o 0-150mm",1280000,190000
+627,73,"Suministro de Engrasadora neumática con ruedas 40 lb. Relación de presión: 50:1,Rango de presión de aire: 80 ~ 150 PSI,Potencia de salida: 4000 PSI,Capacidad: 40 lb,Caudal de salida: 20 g/impulso,Longitud de la manguera: 3 m,Tamaño de la conexión de la manguera: 1/4'',Altura total: 70 cm,Diámetro total: 28 cm,Peso: 11.3 kg",5980000,1200000
+628,74,"Suministro de Compresor horizontal de 300 lt (con llantas, opcional) . Peso 240 kg, Dimensiones 1550 × 500 × 930 mm,Motor 5HP,Tanque Horizontal, 302 Litros, Volumen de salida 22.1 CFM / 620 Litros por minuto,Presión máxima de trabajo 12 bar / 175 lb/plg²,Etapas 2,Cantidad de aceite 2.5 Litros, Revoluciones por minuto (RPM) 580,Puerto de descarga Llave de esfera 3/4"",Con estas características o mayores",6980000,800000
+629,75,Suministro Arrancador de batería 24V .,1980000,1400000
+630,76,"Suministro Cadena de eslabones grado 80, calibre 1"". 3 metros",980000,300000
+631,77,"Suministro Reata con ratchet / malacate de 5"" y gancho metálico. 8 metros, material: poliester de alta tenacidad; Material metálico: Acero de alta resistencia",2980000,430000
+632,78,Suministro Llave para filtro tipo cadena.,280000,230000
+633,79,Suministro Llave para filtro de tres patas.,240000,290000
+634,80,Suministro Llave banda metálica para filtro.,240000,240000
+635,81,"Suministro Barra de acero de 14"". Barra tipo pica - pala",148000,300000
+636,82,"Suministro Machete con agarre antiderrapante. Largo: 18"" (46 cm)",462000,90000
+637,83,"Extintor de Multiproposito ABC de 20 lbs, recargar con agente expulsor polvo quimico seco presurizado con nitrogeno, apto para fuegos de la clase A-B-C:  A. Solidos - B. Líquidos inflamables - C. Equipos eléctricos. Ademas realizar mantenimiento para revisar la presión del extintor asegurandose de que esté en el nivel adecuado, la fecha de vencimiento del agente extintor para garantizar su efectividad, el estado físico del extintor buscando abolladuras, corrosión u otros daños que puedan afectar su rendimiento; La manguera y la boquilla para asegurarse de que estén en buenas condiciones y la etiqueta del extintor para verificar que toda la información sea clara y legible.",420000,190000
+638,84,Suministro de Kit de Carretera,580000,220000
+639,85,Suministro de Juego de llaves mixtas. .Jgo Llaves Mixtas De 6 A 32 Mm X 23 Piezas,870000,340000
+640,86,Suministro de juego de copas cuadrante 3/4 tipo pesado.,2890000,1200000
+641,87,Suministro de juego de destornilladores pala y estrella.,340000,230000
+642,88,"Suministro de alicate aislante eléctrico. AISLADO 8"" 1000V. Ref.13982",390000,190000
+643,89,"Suministro de volvedor palanca cuadrante 3/4"".",640000,320000
+644,90,Suministro de Llave copa de tacones diámetro de perno (29 mm y/o 1- 1/8) (1- 9/64)..,290000,280000
+645,91,"Suministro de ALICATE PRESION HOMBRESOLO RECTO 10"".Alicate Presión Hombre solo Recto 10""",190000,240000
+646,92,Suministro de PISTOLA METÁLICA PETROLIZADORA.Pistola Metálica Petrolizadora,180000,290000
+647,93,Suministro de CEPILLO ALAMBRE DE ACERO MANGO MADERA 3X19HILERAS INOX .CEPILLO Alambre De Acero MANGO MADERA 3X19Hileras INOX,120000,120000
+648,94,"Suministro de HERRAMIENTA/ LLAVE DE SUNCHOS PARA SOLTAR FILTRO DE ACEITE 31/2"" A 3.7/8"". Herramienta/ LLAVE De Sunchos PARA SOLTAR FILTRO DE ACEITE 3 1/2"" A 3.7/8""",290000,140000
+649,95,Suministro de ACEITERA GROZ FLEXIBLE 1000 ML.Aceitera Groz Flexible 1000 Ml,180000,90000
+650,96,Suministro de MEDIDOR DE CORRIENTE.Medidor de Corriente,680000,190000
+651,97,Suministro de JUEGO LAVES TORX .Jgo Llaves Torx Pro 8pz,96000,330000
+652,98,Suministro de VJUEGO DE PINZAS PARA ABRIR CERRAR CHAVETAS DE PUNTAS 5 PCS.Juego de Pinzas para Abrir Cerrar Chavetas de Puntas x 5 Piezas.,870000,290000
+653,99,"Suministro de CALIBRADOR RELOJ CARATULA DIMENSIONES 6"" 0-150MM.Calibre Pie de Rey con Reloj Caratula Dimensiones 6"" o 0-150mm",1280000,190000
+654,100,"Suministro de Engrasadora neumática con ruedas 40 lb.Relación de presión: 50:1,Rango de presión de aire: 80 ~ 150 PSI,Potencia de salida: 4000 PSI,Capacidad: 40 lb,Caudal de salida: 20 g/impulso,Longitud de la manguera: 3 m,Tamaño de la conexión de la manguera: 1/4'',Altura total: 70 cm,Diámetro total: 28 cm,Peso: 11.3 kg",5980000,1200000
+655,101,"Hidrolavadora industrial eléctrica.Tipo de corriente (V) 120,Caudal (l/h) 400,Presión máx. (PSI) 1800,Potencia de conexión (kW) 1,5,Peso (con accesorios). (Kg) 17,Dimensiones (la. × an. × al.). (mm) 570 x 320 x 33",6980000,900000
+656,102,Arrancador de batería 24V .,1980000,1400000
+657,103,"Cadena de eslabones grado 80, calibre 1"".3 metros",980000,340000
+658,104,"Reata con ratchet / malacate de 5"" y gancho metalico.8 metros, material: poliester de alta tenacidad; Material metalico: Acero de alta resistencia",2980000,390000
+659,105,Llave para filtro tipo cadena.,280000,230000
+660,106,Llave para filtro de tres patas.,240000,290000
+661,107,Llave banda metalica para filtro.,240000,240000
+662,108,"Barra de acero de 14"".Barra tipo pica - pala",148000,300000
+663,109,"Machete con agarre antiderrapante.Largo: 18"" (46 cm)",46200,90000
